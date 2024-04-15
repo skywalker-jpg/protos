@@ -1,4 +1,4 @@
-module github.com/skywalker-jpg/protos
+module protos
 
 go 1.22
 
